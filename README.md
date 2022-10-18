@@ -1,7 +1,7 @@
 # Debugging with Pry
 
 ## Learning Goals
-
+ 
 - Explain how Pry is a more flexible REPL than IRB.
 - Install Pry on your computer
 - Debug a program using `binding.pry` within the body of your file
